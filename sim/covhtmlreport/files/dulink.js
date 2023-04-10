@@ -1,0 +1,2 @@
+var g_data = {"9":["work.raminfr",100.00,1],"3":["work.top",100.00,1],"11":["work.uart_receiver",72.40,1],"6":["work.uart_regs",83.77,1],"12":["work.uart_rfifo",75.07,1],"10":["work.uart_sync_flops",76.19,1],"2":["work.uart_test_pkg",52.17,1],"8":["work.uart_tfifo",78.33,1],"4":["work.uart_top",100.00,1],"7":["work.uart_transmitter",71.34,1],"5":["work.uart_wb",81.82,1],"1":["work.wb_if",100.00,1]};
+processDuLinks(g_data);
